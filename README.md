@@ -9,7 +9,7 @@ This repository contains my practice code for:
 - Algorithm problems (BOJ, Codeup)
 - Math concepts (functions, sequences, probability)
 # Structure
-- /boj : Solutions for Baekfoon Online Judge
+- /boj : Solutions for Baekjoon Online Judge
 - /codeup : Basic Python practice problems
 - /math-python : Math concepts implemented in Python
 # Goal
