@@ -12,6 +12,6 @@ This repository contains my practice code for:
 - /boj : Solutions for Baekfoon Online Judge
 - /codeup : Basic Python practice problems
 - /math-python : Math concepts implemented in Python
-#Goal
+# Goal
 - Build strong foundations in math and programming
 - Prepare for future studies in quantitative finance
